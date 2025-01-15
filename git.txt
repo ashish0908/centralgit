@@ -72,7 +72,7 @@ Branch:
 
  git remote add origin <git url> :  To add local repository to remote repo
 
- --> git remote add origin https://github.com/ashish0920/testrepo.git
+ --> git remote add origin https://github.com/ashish0908/centralgit.git
 ** It will not work github removed password authentication use access token
 
  git branch -M main  :  To create branch if it is a new repositroy
